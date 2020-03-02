@@ -9,6 +9,6 @@ Install the dependencies: *sudo apt install npm jq nodejs*
 
 Download the sources: *git clone --recursive https://github.com/SkywalkerSW5/etcher-rpi.git && cd etcher*
 
-Compile it; *make electron-develop*   *make webpack*
+Compile it; *make electron-develop* and *make webpack*
 
 Start it: *npm start*
