@@ -1,7 +1,7 @@
 {
-  "name": "balena-etcher",
+  "name": "etcher-rpi",
   "private": true,
-  "displayName": "balenaEtcher",
+  "displayName": "Etcher",
   "version": "1.5.79",
   "packageType": "local",
   "updates": {
